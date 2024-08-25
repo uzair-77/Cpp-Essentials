@@ -26,6 +26,30 @@ Welcome to the **C++ Essentials** repository! This repository contains a collect
    - **File:** `month.cpp`
    - **Description:** This program takes a month number as input and displays the corresponding month name along with the number of days in that month.
 
+6. **Palindrome Checker**
+   - Checks whether a given number is a palindrome.
+   - **File:** `Palindrome.cpp`
+
+7. **Shape Type Identifier**
+   - Determines if the given coordinates form a square, rectangle, or parallelogram.
+   - **File:** `cardinals.cpp`
+
+8. **Ceiling Value Calculator**
+   - Computes the ceiling value of a given floating-point number.
+   - **File:** `ceiling_num.cpp`
+
+9. **Floor Value Calculator**
+   - Computes the floor value of a given floating-point number.
+   - **File:** `floor_num.cpp`
+
+10. **Max-Min Comparator**
+   - Compares two numbers and determines which is maximum and minimum, with the ability to count the number of comparisons.
+   - **File:** `numbers.cpp`
+
+11. **Rock-Paper-Scissors Game**
+   - Implements a simple Rock-Paper-Scissors game for two players.
+   - **File:** `rockpaper.cpp`
+
 ## How to Use
 
 1. **Clone the Repository**
