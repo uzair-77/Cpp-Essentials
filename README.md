@@ -7,23 +7,23 @@ Welcome to the **C++ Essentials** repository! This repository contains a collect
 ## Programs Included
 
 1. **Even/Odd Checker**
-   - **File:** `even_odd_checker.cpp`
+   - **File:** `Even.cpp`
    - **Description:** This program takes an integer input from the user and determines whether the number is even or odd using a `switch` statement.
 
 2. **Prime Number Checker**
-   - **File:** `prime_number_checker.cpp`
+   - **File:** `Prime.cpp`
    - **Description:** This program checks if a given number is prime or not. It divides the number by all integers less than its half to determine its primality.
 
 3. **Number Table Generator**
-   - **File:** `number_table_generator.cpp`
+   - **File:** `array.cpp`
    - **Description:** This program generates and displays a table of the input number with its square and cube values, iterating from the input number up to 9.
 
 4. **Simple Calculator**
-   - **File:** `simple_calculator.cpp`
+   - **File:** `basiccalculator.cpp`
    - **Description:** This program functions as a simple calculator, performing basic arithmetic operations (addition, subtraction, multiplication, division) based on user input.
 
 5. **Month Days Identifier**
-   - **File:** `month_days_identifier.cpp`
+   - **File:** `month.cpp`
    - **Description:** This program takes a month number as input and displays the corresponding month name along with the number of days in that month.
 
 ## How to Use
